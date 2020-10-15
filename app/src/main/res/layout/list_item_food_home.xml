@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="model"
+            type="com.example.twininterview.android.data.domain.food.model.Food"/>
+
+        <variable
+            name="isSelected"
+            type="Boolean"/>
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="72dp">
+
+        <ImageView
+            android:id="@+id/ivFoodImage"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_marginStart="10dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/tvCustomChoice"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            />
+
+        <TextView
+            android:id="@+id/tvCustomChoice"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="24dp"
+            android:layout_toStartOf="@+id/ivSelection"
+            android:fontFamily="@font/hk_grotesk_bold"
+            android:paddingEnd="8dp"
+            android:textColor="@color/twins_green"
+            android:textSize="16sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/ivSelection"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toEndOf="@+id/ivFoodImage"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Biryani" />
+
+        <ToggleButton
+            android:id="@+id/ivSelection"
+            android:layout_alignParentEnd="true"
+            android:layout_width="34dp"
+            android:layout_height="34dp"
+            android:layout_marginVertical="12dp"
+            android:layout_marginEnd="24dp"
+            android:textOff=""
+            android:textOn=""
+            android:backgroundTint="@{safeUnbox(isSelected) ? @color/twins_green: @color/background_grey}"
+            android:background="@drawable/ic_add_meal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

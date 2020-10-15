@@ -1,0 +1,72 @@
+[
+    {
+      "id": "1",
+      "title": "Chia Seed Roti",
+      "image_url": "https://3.bp.blogspot.com/-MC2Oz_rzyGE/Uhkmg1uDKxI/AAAAAAAAUMg/wvq-_s-CNmE/s1600/Chia+Chapati.JPG",
+      "is_recent": false,
+      "is_tfy": true
+    },
+    {
+      "id": "2",
+      "title": "Chicken Egg Noodles",
+      "image_url": "https://togetherasfamily.com/wp-content/uploads/2019/11/creamy-chicken-noodle-soup-2.jpg",
+      "is_recent": false,
+      "is_tfy": true
+    },
+    {
+      "id": "3",
+      "title": "Chicken Fry",
+      "image_url": "https://recipesaresimple.com/wp-content/uploads/2018/09/easy-kerala-chicken-fry-1000x500.jpg",
+      "is_recent": false,
+      "is_tfy": true
+    },
+    {
+      "id": "4",
+      "title": "Garlic Naan",
+      "image_url": "https://therecipecritic.com/wp-content/uploads/2020/01/naan_bread_hero.jpg",
+      "is_recent": true,
+      "is_tfy": true
+    },
+    {
+      "id": "5",
+      "title": "Sajja Roti",
+      "image_url": "https://2.bp.blogspot.com/_LO6G6gudlBg/S3FqKOVSrkI/AAAAAAAAH3g/TtbBUoG8cj8/s400/Sadda+Rotalu.JPG",
+      "is_recent": true,
+      "is_tfy": true
+    },
+    {
+      "id": "6",
+      "title": "Sauted Broccoli",
+      "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/5/16/1/FNK_Sauteed-Broccoli_H1_s4x3.jpg.rend.hgtvcom.826.620.suffix/1558024256626.jpeg",
+      "is_recent": false,
+      "is_tfy": true
+    },
+    {
+      "id": "7",
+      "title": "Ghee Rice",
+      "image_url": "https://3.bp.blogspot.com/-ftkd4cXor5I/WMHi77gQhcI/AAAAAAAAC6c/hcVkvqJ9LZMedaqhqzJQX8RFwXgcqRt4ACLcB/s1600/Ghee%2BRice.JPG",
+      "is_recent": false,
+      "is_tfy": true
+    },
+    {
+      "id": "8",
+      "title": "Gongura Chutney",
+      "image_url": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2018/Andhra_Gongura_Pachadi_Recipe_-_Andhra_Style_Sorrel_Leaves_Chutney-10.jpg",
+      "is_recent": false,
+      "is_tfy": false
+    },
+    {
+      "id": "9",
+      "title": "Corn gravy",
+      "image_url": "https://1.bp.blogspot.com/-p-OKNIcnIzU/XVEEBXujVGI/AAAAAAAA-ao/KJs09-Q2JWMbPCHvV58nkMEcE494XdtdQCLcBGAs/s1600/baby-corn-masala.jpg",
+      "is_recent": false,
+      "is_tfy": false
+    },
+    {
+      "id": "10",
+      "title": "Egg White Omelette",
+      "image_url": "https://images.eatthismuch.com/site_media/img/254454_ldementhon_bc994dea-059c-401b-a6e3-2cc5df521d8f.png",
+      "is_recent": false,
+      "is_tfy": true
+    }
+]

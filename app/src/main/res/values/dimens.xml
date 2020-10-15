@@ -1,0 +1,8 @@
+<resources>
+
+    <dimen name="global_edge_size">24dp</dimen>
+    <dimen name="shadow_adjusted_edge_size">16dp</dimen>
+    <dimen name="list_item_height">96dp</dimen>
+    <dimen name="list_item_text_container_height">58dp</dimen>
+
+</resources>
