@@ -6,7 +6,7 @@
 
         <variable
             name="model"
-            type="com.example.twininterview.android.ui.splash.SplashViewModel"/>
+            type="com.example.sid.android.ui.splash.SplashViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

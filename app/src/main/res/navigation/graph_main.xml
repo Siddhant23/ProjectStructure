@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/splashFragment"
-        android:name="com.example.twininterview.android.ui.splash.SplashFragment"
+        android:name="com.example.sid.android.ui.splash.SplashFragment"
         android:label="SplashFragment" >
         <action
             android:id="@+id/action_splashFragment_to_homeFragment"
@@ -19,7 +19,7 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.example.twininterview.android.ui.home.HomeFragment"
+        android:name="com.example.sid.android.ui.home.HomeFragment"
         android:label="SplashFragment"
         tools:layout="@layout/fragment_home"/>
 

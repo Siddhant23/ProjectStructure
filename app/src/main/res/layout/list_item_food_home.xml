@@ -7,7 +7,7 @@
     <data>
         <variable
             name="model"
-            type="com.example.twininterview.android.data.domain.food.model.Food"/>
+            type="com.example.sid.android.data.domain.food.model.Food" />
 
         <variable
             name="isSelected"

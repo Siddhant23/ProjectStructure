@@ -6,7 +6,7 @@
     <data>
         <variable
             name="model"
-            type="com.example.twininterview.android.ui.home.HomeViewModel" />
+            type="com.example.sid.android.ui.home.HomeViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

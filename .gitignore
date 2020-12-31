@@ -74,3 +74,4 @@ lint/tmp/
 # lint/reports/
 # Android Profiling
 *.hprof
+/.idea/
