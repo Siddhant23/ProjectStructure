@@ -1,4 +1,1 @@
-# README #
-
- 
-### Project structure ###
+ ### Project structure ###
