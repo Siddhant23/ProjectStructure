@@ -15,8 +15,5 @@ class InitializeApplication @Inject constructor(
         withContext(contextFacade.default) {
             initializers.initialize()
         }
-//        initializers.forEach {
-//            launch(contextFacade.default) { it.initialize() }
-//        }
     }
 }
