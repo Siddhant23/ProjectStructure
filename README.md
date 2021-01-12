@@ -1,4 +1,4 @@
 # README #
 
  
-### Food app structure ###
+### Project structure###
